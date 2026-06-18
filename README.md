@@ -31,3 +31,7 @@ Paste a resume and instantly receive:
 - Found Skills
 - Missing Skills
 - Learning Recommendations
+
+## Live Demo
+
+https://perne007.github.io/AI-Resume-Analyzer/
